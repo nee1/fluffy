@@ -2,3 +2,6 @@
 *.DS_Store
 classes/*
 *.iml
+.D*
+out/*
+a.out
