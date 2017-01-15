@@ -1,7 +1,10 @@
 .idea/*
-*.DS_Store
+.DS_Store*
 classes/*
-*.iml
-.D*
+generated/*
+lib/*
 out/*
 a.out
+.project
+*.iml
+
